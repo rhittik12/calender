@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/hero-calendar.svg" alt="Interactive Wall Calendar — cherry blossom hero" width="280" />
+  <img src="public/calendar.svg" alt="Interactive Wall Calendar — cherry blossom hero" width="280" />
 </p>
 
 <h1 align="center">Interactive Wall Calendar</h1>
